@@ -38,6 +38,11 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
+## Images
+
+![ DESCRIPTION ](https://via.placeholder.com/400)
+![ DESCRIPTION ](https://via.placeholder.com/400)
+
 ## Running the tests
 
 Explain how to run the automated tests for this system
