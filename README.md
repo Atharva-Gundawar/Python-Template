@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
+```bash
 Give examples
 ```
 
@@ -20,19 +20,19 @@ A step by step series of examples that tell you how to get a development env run
 
 Install the Requirements:
 
-```
+```python
  pip install -r requirements.txt
 ```
 
 Say what the step will be
 
-```
+```bash
 Give the example
 ```
 
 And repeat
 
-```
+```bash
 until finished
 ```
 
@@ -51,7 +51,7 @@ Explain how to run the automated tests for this system
 
 Explain what these tests test and why
 
-```
+```bash
 Give an example
 ```
 
@@ -59,7 +59,7 @@ Give an example
 
 Explain what these tests test and why
 
-```
+```bash
 Give an example
 ```
 
@@ -69,9 +69,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Name](<LINK>) - <DESCRIPTION>
-* [Name](<LINK>) - <DESCRIPTION>
-* [Name](<LINK>) - <DESCRIPTION>
+* [Name](<LINK>) - DESCRIPTION
+* [Name](<LINK>) - DESCRIPTION
+* [Name](<LINK>) - DESCRIPTION
 
 ## Contributing
 
@@ -79,7 +79,7 @@ Please read [CONTRIBUTING.md](https://github.com/) for details on our code of co
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
