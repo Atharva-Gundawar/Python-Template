@@ -1,6 +1,7 @@
 # charge the name of this file to DOCKERFILE-django and then delete this line.
 
 FROM python:3.7
+MAINTAINER Atharva Gundawar <atharva.n.gundawar@gmail.com>
 
 ARG DJANGO_SECRET_KEY
 

@@ -3,6 +3,7 @@
 # syntax=docker/dockerfile:1
 
 FROM python:3.8-slim-buster
+MAINTAINER Atharva Gundawar <atharva.n.gundawar@gmail.com>
 
 WORKDIR /app
 

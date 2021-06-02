@@ -1,5 +1,6 @@
 # change the name of this file to docker-compose.yml and then delete this line.
 version: '3.7'
+maintainer: 'Atharva Gundawar <atharva.n.gundawar@gmail.com>'
 
 services:
   web:
