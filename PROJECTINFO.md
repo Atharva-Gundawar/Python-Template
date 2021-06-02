@@ -1,8 +1,14 @@
 # Product Name
+
 > Short blurb about what your product does.
 
-### File Structure
-------------
+## File Structure
+
+>use [repostruc](https://pypi.org/project/repostruc/) for auto genreating the below structure.
+
+```txt
+
+
 
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
@@ -43,7 +49,7 @@
     
 
 
---------
+---
 
 ## Contributing
 
